@@ -12,9 +12,14 @@ chess_robot_simulation/__init__.py
 chess_robot_simulation/chess_robot_node.py
 chess_robot_simulation/minimal_node.py
 chess_robot_simulation/minimal_publisher.py
+chess_robot_simulation.egg-info/PKG-INFO
+chess_robot_simulation.egg-info/SOURCES.txt
+chess_robot_simulation.egg-info/dependency_links.txt
+chess_robot_simulation.egg-info/entry_points.txt
+chess_robot_simulation.egg-info/requires.txt
+chess_robot_simulation.egg-info/top_level.txt
+chess_robot_simulation.egg-info/zip-safe
 launch/chess_robot.launch.py
+launch/chess_robot_simulation.launch.py
 launch/debug.launch.py
 resource/chess_robot_simulation
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py

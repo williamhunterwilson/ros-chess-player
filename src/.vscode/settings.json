@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ros/ros2_ws/build/my_robot_controller",
+        "/home/ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages",
+        "/home/ros/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/ros/install/chess_robot_simulation/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ros/ros2_ws/build/my_robot_controller",
+        "/home/ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages",
+        "/home/ros/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/ros/install/chess_robot_simulation/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,119 @@
+Panels:
+  - Class: rviz_common/Displays
+    Name: Displays
+    Property Tree Widget:
+      Expanded:
+        - /Global Options1
+        - /Status1
+        - /RobotModel1
+        - /MarkerArray1
+        - /TF1
+      Splitter Ratio: 0.5
+    Tree Height: 778
+  - Class: rviz_common/Views
+    Name: Views
+    Property Tree Widget:
+      Expanded: ~
+      Splitter Ratio: 0.5
+    Tree Height: 300
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Alpha: 0.5
+      Cell Size: 1
+      Class: rviz_default_plugins/Grid
+      Color: 160; 160; 164
+      Enabled: true
+      Name: Grid
+      Normal Cell Count: 0
+      Plane: XY
+      Plane Cell Count: 10
+      Reference Frame: world
+      Value: true
+    - Alpha: 1
+      Class: rviz_default_plugins/RobotModel
+      Description Topic: /robot_description
+      Enabled: true
+      Name: RobotModel
+      Robot Description: robot_description
+      TF Prefix: ""
+      Update Interval: 0
+      Value: true
+      Visual Enabled: true
+    - Class: rviz_default_plugins/MarkerArray
+      Enabled: true
+      Name: MarkerArray
+      Namespaces:
+        chess_board: true
+        chess_pieces: true
+        chess_squares: true
+      Topic: /chess_pieces_markers
+      Value: true
+    - Class: rviz_default_plugins/Marker
+      Enabled: true
+      Name: ChessBoard
+      Namespaces:
+        chess_board: true
+      Topic: /chess_board_marker
+      Value: true
+    - Class: rviz_default_plugins/TF
+      Enabled: true
+      Frame Timeout: 15
+      Frames:
+        All Enabled: true
+      Marker Scale: 0.5
+      Name: TF
+      Show Arrows: true
+      Show Axes: true
+      Show Names: true
+      Tree:
+        world:
+          robot_base:
+            base_link:
+              shoulder_link:
+                upper_arm_link:
+                  forearm_link:
+                    wrist_1_link:
+                      wrist_2_link:
+                        wrist_3_link:
+                          ee_link:
+                            {}
+      Update Interval: 0
+      Value: true
+  Enabled: true
+  Global Options:
+    Background Color: 48; 48; 48
+    Fixed Frame: world
+    Frame Rate: 30
+  Name: root
+  Tools:
+    - Class: rviz_default_plugins/MoveCamera
+    - Class: rviz_default_plugins/Select
+    - Class: rviz_default_plugins/FocusCamera
+    - Class: rviz_default_plugins/Measure
+  Views:
+    Current:
+      Class: rviz_default_plugins/Orbit
+      Distance: 2.0
+      Focal Point:
+        X: 0.0
+        Y: 0.2
+        Z: 0.0
+      Name: Current View
+      Pitch: 0.785398
+      Target Frame: world
+      Value: Orbit (rviz)
+      Yaw: 0.785398
+    Saved: ~
+Window Geometry:
+  Displays:
+    collapsed: false
+  Height: 1025
+  Hide Left Dock: false
+  Hide Right Dock: false
+  QMainWindow State: 000000ff00000000fd00000004000000000000016a000003a7fc0200000005fb000000100044006900730070006c006100790073010000003d000003a7000000c900fffffffb0000000800540069006d006500000003bd000000270000003900fffffffb0000001200530065006c0065006300740069006f006e00000001e10000009b0000005c00fffffffb0000001e0054006f006f006c002000500072006f007000650072007400690065007302000001ed000001df00000185000000a3fb000000120056006900650077007300200054006f006f02000001df000002110000018500000122000000200000000000000003d0fc0100000003fb0000000c00430061006d0065007200610200000258000001400000030c00000222fb0000000c00430061006d0065007200610200000295000001400000030c00000222fb0000000a0056006900650077007300000003a1000000cf000000a400ffffff000000010000010f000003a7fc0200000003fb0000001e0054006f006f006c002000500072006f00700065007200740069006500730100000041000000780000000000000000fb0000000a00560069006500770073010000003d000003a7000000a400fffffffb0000001200530065006c0065006300740069006f006e010000025a000000b200000000000000000000000200000490000000a9fc0100000001fb0000000a00560069006500770073030000004e00000080000002e10000019700000003000004420000003efc0100000002fb0000000800540069006d00650100000000000004500000000000000000fb0000000800540069006d00650100000000000004500000000000000000000004c0000003a700000004000000040000000800000008fc0000000100000002000000010000000a0054006f006f006c00730100000000ffffffff0000000000000000
+  Views:
+    collapsed: false
+  Width: 1855
+  X: 65
+  Y: 24
