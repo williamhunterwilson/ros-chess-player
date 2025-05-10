@@ -1,0 +1,42 @@
+running develop
+Removing /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess-robot-simulation.egg-link (link to .)
+running egg_info
+writing ../../build/chess_robot_simulation/chess_robot_simulation.egg-info/PKG-INFO
+writing dependency_links to ../../build/chess_robot_simulation/chess_robot_simulation.egg-info/dependency_links.txt
+writing entry points to ../../build/chess_robot_simulation/chess_robot_simulation.egg-info/entry_points.txt
+writing requirements to ../../build/chess_robot_simulation/chess_robot_simulation.egg-info/requires.txt
+writing top-level names to ../../build/chess_robot_simulation/chess_robot_simulation.egg-info/top_level.txt
+reading manifest file '../../build/chess_robot_simulation/chess_robot_simulation.egg-info/SOURCES.txt'
+writing manifest file '../../build/chess_robot_simulation/chess_robot_simulation.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ros/chess_robot_ws/build/chess_robot_simulation/build
+creating /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib
+creating /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation
+copying chess_robot_simulation/minimal_node.py -> /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation
+copying chess_robot_simulation/minimal_publisher.py -> /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation
+copying chess_robot_simulation/chess_robot_node.py -> /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation
+copying chess_robot_simulation/__init__.py -> /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation
+running install
+running install_lib
+creating /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation
+copying /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation/minimal_node.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation
+copying /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation/minimal_publisher.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation
+copying /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation/chess_robot_node.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation
+copying /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation/__init__.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation
+byte-compiling /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation/minimal_node.py to minimal_node.cpython-310.pyc
+byte-compiling /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation/minimal_publisher.py to minimal_publisher.cpython-310.pyc
+byte-compiling /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation/chess_robot_node.py to chess_robot_node.cpython-310.pyc
+byte-compiling /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/chess_robot_simulation -> /home/ros/chess_robot_ws/install/chess_robot_simulation/share/ament_index/resource_index/packages
+copying package.xml -> /home/ros/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation
+copying launch/debug.launch.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation
+copying launch/chess_robot.launch.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation
+running install_egg_info
+Copying ../../build/chess_robot_simulation/chess_robot_simulation.egg-info to /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation-0.0.1-py3.10.egg-info
+running install_scripts
+Installing chess_robot_node script to /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+Installing minimal_node script to /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+Installing minimal_publisher script to /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+writing list of installed files to '/home/ros/chess_robot_ws/build/chess_robot_simulation/install.log'
