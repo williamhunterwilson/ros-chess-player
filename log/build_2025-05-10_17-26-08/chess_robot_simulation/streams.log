@@ -1,0 +1,40 @@
+[5.551s] Invoking command in '/home/ros/chess_robot_ws/build/chess_robot_simulation': PYTHONPATH=/home/ros/chess_robot_ws/build/chess_robot_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ros/chess_robot_ws/build/chess_robot_simulation/build
+[6.153s] running develop
+[6.619s] Removing /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess-robot-simulation.egg-link (link to .)
+[6.730s] Invoked command in '/home/ros/chess_robot_ws/build/chess_robot_simulation' returned '0': PYTHONPATH=/home/ros/chess_robot_ws/build/chess_robot_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ros/chess_robot_ws/build/chess_robot_simulation/build
+[6.737s] Invoking command in '/home/ros/chess_robot_ws/src/chess_robot_simulation': PYTHONPATH=/home/ros/chess_robot_ws/build/chess_robot_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chess_robot_simulation build --build-base /home/ros/chess_robot_ws/build/chess_robot_simulation/build install --record /home/ros/chess_robot_ws/build/chess_robot_simulation/install.log --single-version-externally-managed install_data --force
+[7.161s] running egg_info
+[7.161s] writing ../../build/chess_robot_simulation/chess_robot_simulation.egg-info/PKG-INFO
+[7.162s] writing dependency_links to ../../build/chess_robot_simulation/chess_robot_simulation.egg-info/dependency_links.txt
+[7.163s] writing entry points to ../../build/chess_robot_simulation/chess_robot_simulation.egg-info/entry_points.txt
+[7.164s] writing requirements to ../../build/chess_robot_simulation/chess_robot_simulation.egg-info/requires.txt
+[7.164s] writing top-level names to ../../build/chess_robot_simulation/chess_robot_simulation.egg-info/top_level.txt
+[7.166s] reading manifest file '../../build/chess_robot_simulation/chess_robot_simulation.egg-info/SOURCES.txt'
+[7.178s] writing manifest file '../../build/chess_robot_simulation/chess_robot_simulation.egg-info/SOURCES.txt'
+[7.179s] running build
+[7.179s] running build_py
+[7.180s] copying chess_robot_simulation/chess_robot_node.py -> /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation
+[7.187s] running install
+[7.187s] running install_lib
+[7.203s] creating /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation
+[7.204s] copying /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation/minimal_node.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation
+[7.214s] copying /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation/minimal_publisher.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation
+[7.234s] copying /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation/chess_robot_node.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation
+[7.236s] copying /home/ros/chess_robot_ws/build/chess_robot_simulation/build/lib/chess_robot_simulation/__init__.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation
+[7.236s] byte-compiling /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation/minimal_node.py to minimal_node.cpython-310.pyc
+[7.236s] byte-compiling /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation/minimal_publisher.py to minimal_publisher.cpython-310.pyc
+[7.237s] byte-compiling /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation/chess_robot_node.py to chess_robot_node.cpython-310.pyc
+[7.249s] byte-compiling /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation/__init__.py to __init__.cpython-310.pyc
+[7.250s] running install_data
+[7.250s] copying resource/chess_robot_simulation -> /home/ros/chess_robot_ws/install/chess_robot_simulation/share/ament_index/resource_index/packages
+[7.251s] copying package.xml -> /home/ros/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation
+[7.252s] copying launch/chess_robot.launch.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation
+[7.253s] copying launch/chess_robot_simulation.launch.py -> /home/ros/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation
+[7.255s] running install_egg_info
+[7.259s] Copying ../../build/chess_robot_simulation/chess_robot_simulation.egg-info to /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess_robot_simulation-0.0.1-py3.10.egg-info
+[7.266s] running install_scripts
+[7.314s] Installing chess_robot_node script to /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[7.318s] Installing minimal_node script to /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[7.323s] Installing minimal_publisher script to /home/ros/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[7.329s] writing list of installed files to '/home/ros/chess_robot_ws/build/chess_robot_simulation/install.log'
+[7.384s] Invoked command in '/home/ros/chess_robot_ws/src/chess_robot_simulation' returned '0': PYTHONPATH=/home/ros/chess_robot_ws/build/chess_robot_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ros/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chess_robot_simulation build --build-base /home/ros/chess_robot_ws/build/chess_robot_simulation/build install --record /home/ros/chess_robot_ws/build/chess_robot_simulation/install.log --single-version-externally-managed install_data --force
