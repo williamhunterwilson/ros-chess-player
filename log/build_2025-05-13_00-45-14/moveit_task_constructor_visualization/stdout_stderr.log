@@ -172,3 +172,47 @@
 [ 90%] Built target moveit_task_constructor_visualization-test-task_model_autogen
 [ 92%] [32mBuilding CXX object motion_planning_tasks/test/CMakeFiles/moveit_task_constructor_visualization-test-solution-models.dir/moveit_task_constructor_visualization-test-solution-models_autogen/mocs_compilation.cpp.o[0m
 [ 93%] [32mBuilding CXX object motion_planning_tasks/test/CMakeFiles/moveit_task_constructor_visualization-test-solution-models.dir/test_solution_models.cpp.o[0m
+[ 95%] [32m[1mLinking CXX executable moveit_task_constructor_visualization-test-solution-models[0m
+[ 95%] Built target moveit_task_constructor_visualization-test-solution-models
+[ 96%] [32mBuilding CXX object motion_planning_tasks/test/CMakeFiles/moveit_task_constructor_visualization-test-task_model.dir/moveit_task_constructor_visualization-test-task_model_autogen/mocs_compilation.cpp.o[0m
+[ 98%] [32mBuilding CXX object motion_planning_tasks/test/CMakeFiles/moveit_task_constructor_visualization-test-task_model.dir/test_task_model.cpp.o[0m
+[100%] [32m[1mLinking CXX executable moveit_task_constructor_visualization-test-task_model[0m
+[100%] Built target moveit_task_constructor_visualization-test-task_model
+-- Install configuration: "Release"
+-- Execute custom install script
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/include/moveit/visualization_tools/display_solution.h
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/include/moveit/visualization_tools/marker_visualization.h
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/include/moveit/visualization_tools/task_solution_panel.h
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/include/moveit/visualization_tools/task_solution_visualization.h
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/lib/libmotion_planning_tasks_utils.so
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/icons/classes/Motion Planning Tasks.svg
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization//motion_planning_tasks_rviz_plugin_description.xml
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/environment/library_path.sh
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/environment/library_path.dsv
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/ament_index/resource_index/package_run_dependencies/moveit_task_constructor_visualization
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/ament_index/resource_index/parent_prefix_path/moveit_task_constructor_visualization
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/environment/ament_prefix_path.sh
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/environment/ament_prefix_path.dsv
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/environment/path.sh
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/environment/path.dsv
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/local_setup.bash
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/local_setup.sh
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/local_setup.zsh
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/local_setup.dsv
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/package.dsv
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/ament_index/resource_index/packages/moveit_task_constructor_visualization
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/ament_index/resource_index/rviz_common__pluginlib__plugin/moveit_task_constructor_visualization
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/cmake/moveit_task_constructor_visualizationConfig.cmake
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/cmake/moveit_task_constructor_visualizationConfig-version.cmake
+-- Symlinking: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/share/moveit_task_constructor_visualization/package.xml
+-- Installing: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/lib/libmoveit_task_visualization_tools.so.0.1.3
+-- Set runtime path of "/home/will/chess_robot_ws/install/moveit_task_constructor_visualization/lib/libmoveit_task_visualization_tools.so.0.1.3" to ""
+-- Installing: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/lib/libmoveit_task_visualization_tools.so
+-- Installing: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/lib/libmotion_planning_tasks_properties.so
+-- Set runtime path of "/home/will/chess_robot_ws/install/moveit_task_constructor_visualization/lib/libmotion_planning_tasks_properties.so" to ""
+-- Installing: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/lib/libmotion_planning_tasks_rviz_plugin.so.0.1.3
+-- Set runtime path of "/home/will/chess_robot_ws/install/moveit_task_constructor_visualization/lib/libmotion_planning_tasks_rviz_plugin.so.0.1.3" to ""
+-- Installing: /home/will/chess_robot_ws/install/moveit_task_constructor_visualization/lib/libmotion_planning_tasks_rviz_plugin.so
