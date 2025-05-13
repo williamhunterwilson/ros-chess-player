@@ -12,9 +12,19 @@ setup(
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
-        (os.path.join('share', package_name), glob('launch/*.py')),
+        (os.path.join('share', package_name, 'launch'), glob('launch/*.py')),
+        (os.path.join('share', package_name, 'rviz'), glob('rviz/*.rviz')),
     ],
-    install_requires=['setuptools'],
+    install_requires=[
+        'setuptools',
+        'rclpy',
+        'geometry_msgs',
+        'std_msgs',
+        'visualization_msgs',
+        'moveit_py',
+        'numpy',
+        'python-chess',
+    ],
     zip_safe=True,
     maintainer='user',
     maintainer_email='user@example.com',
@@ -23,10 +33,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-        'chess_robot_node = chess_robot_simulation.chess_robot_node:main',
-        'minimal_node = chess_robot_simulation.minimal_node:main',
-        'minimal_publisher = chess_robot_simulation.minimal_publisher:main',
-
+            'chess_robot_node = chess_robot_simulation.chess_robot_node:main',
         ],
     },
 )

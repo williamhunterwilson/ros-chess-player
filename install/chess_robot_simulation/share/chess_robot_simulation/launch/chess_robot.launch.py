@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/build/chess_robot_simulation/launch/chess_robot.launch.py

@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/build/rosparam_shortcuts/ament_cmake_core/rosparam_shortcutsConfig-version.cmake

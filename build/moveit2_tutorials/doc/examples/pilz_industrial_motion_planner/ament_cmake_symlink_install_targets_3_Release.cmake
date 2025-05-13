@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/will/chess_robot_ws/build/moveit2_tutorials/doc/examples/pilz_industrial_motion_planner/pilz_move_group" "/home/will/chess_robot_ws/build/moveit2_tutorials/doc/examples/pilz_industrial_motion_planner/pilz_mtc" "TARGETS" "pilz_move_group" "pilz_mtc" "DESTINATION" "lib/moveit2_tutorials")

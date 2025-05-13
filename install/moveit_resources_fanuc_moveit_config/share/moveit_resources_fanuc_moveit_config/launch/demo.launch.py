@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/src/moveit_resources/fanuc_moveit_config/launch/demo.launch.py

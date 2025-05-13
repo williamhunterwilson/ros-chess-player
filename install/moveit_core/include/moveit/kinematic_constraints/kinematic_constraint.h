@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/src/moveit2/moveit_core/kinematic_constraints/include/moveit/kinematic_constraints/kinematic_constraint.h

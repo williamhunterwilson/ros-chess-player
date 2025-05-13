@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/src/moveit2/moveit_core/collision_detection/include/moveit/collision_detection/test_collision_common_panda.h

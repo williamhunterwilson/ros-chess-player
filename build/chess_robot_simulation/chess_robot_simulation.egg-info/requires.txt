@@ -1,1 +1,8 @@
+geometry_msgs
+moveit_py
+numpy
+python-chess
+rclpy
 setuptools
+std_msgs
+visualization_msgs

@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/src/moveit2/moveit_kinematics/test/launch/fanuc-lma-singular.test.py

@@ -1,1 +1,1 @@
-geometry_msgs:moveit_py:rclpy:std_msgs:visualization_msgs
+geometry_msgs:moveit_commander:moveit_ros_planning_interface:movit_py:rclpy:std_msgs:visualization_msgs

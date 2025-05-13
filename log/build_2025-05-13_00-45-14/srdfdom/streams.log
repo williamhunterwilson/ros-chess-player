@@ -1,0 +1,103 @@
+[0.128s] Invoking command in '/home/will/chess_robot_ws/build/srdfdom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/will/chess_robot_ws/src/srdfdom -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/will/chess_robot_ws/install/srdfdom
+[0.526s] -- The CXX compiler identification is GNU 11.4.0
+[0.592s] -- Detecting CXX compiler ABI info
+[1.120s] -- Detecting CXX compiler ABI info - done
+[1.133s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.140s] -- Detecting CXX compile features
+[1.147s] -- Detecting CXX compile features - done
+[1.165s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0")  
+[1.205s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.959s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.982s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.059s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[2.214s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[2.771s] -- Found ament_cmake_gtest: 1.3.11 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[2.771s] -- Found ament_cmake_pytest: 1.3.11 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[3.679s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[3.781s] -- The C compiler identification is GNU 11.4.0
+[3.800s] -- Detecting C compiler ABI info
+[4.125s] -- Detecting C compiler ABI info - done
+[4.173s] -- Check for working C compiler: /usr/bin/cc - skipped
+[4.173s] -- Detecting C compile features
+[4.173s] -- Detecting C compile features - done
+[4.186s] -- Looking for C++ include pthread.h
+[4.552s] -- Looking for C++ include pthread.h - found
+[4.553s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[5.132s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[5.132s] -- Found Threads: TRUE  
+[5.133s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.197s] -- Configuring done
+[5.242s] -- Generating done
+[5.283s] -- Build files have been written to: /home/will/chess_robot_ws/build/srdfdom
+[5.290s] Invoked command in '/home/will/chess_robot_ws/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/will/chess_robot_ws/src/srdfdom -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/will/chess_robot_ws/install/srdfdom
+[5.291s] Invoking command in '/home/will/chess_robot_ws/build/srdfdom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/will/chess_robot_ws/build/srdfdom -- -j4 -l4
+[5.703s] [  9%] [32mBuilding CXX object CMakeFiles/srdfdom.dir/src/model.cpp.o[0m
+[5.745s] [ 18%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[5.769s] [ 27%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[5.842s] [ 27%] Built target ament_cmake_python_symlink_srdfdom
+[7.046s] running egg_info
+[7.052s] creating srdfdom.egg-info
+[7.065s] writing srdfdom.egg-info/PKG-INFO
+[7.065s] writing dependency_links to srdfdom.egg-info/dependency_links.txt
+[7.065s] writing top-level names to srdfdom.egg-info/top_level.txt
+[7.065s] writing manifest file 'srdfdom.egg-info/SOURCES.txt'
+[7.065s] reading manifest file 'srdfdom.egg-info/SOURCES.txt'
+[7.066s] writing manifest file 'srdfdom.egg-info/SOURCES.txt'
+[7.220s] [ 27%] Built target ament_cmake_python_build_srdfdom_egg
+[7.538s] [ 36%] [32mBuilding CXX object CMakeFiles/srdfdom.dir/src/srdf_writer.cpp.o[0m
+[9.591s] [ 45%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[10.089s] [ 45%] Built target gtest_main
+[15.329s] [ 54%] [32m[1mLinking CXX shared library libsrdfdom.so[0m
+[15.793s] [ 54%] Built target srdfdom
+[18.237s] [ 63%] [32m[1mLinking CXX static library libgtest.a[0m
+[18.500s] [ 63%] Built target gtest
+[18.648s] [ 72%] [32mBuilding CXX object CMakeFiles/test_cpp_C.dir/test/test_parser.cpp.o[0m
+[18.679s] [ 81%] [32mBuilding CXX object CMakeFiles/test_cpp_nl_NL.UTF-8.dir/test/test_parser.cpp.o[0m
+[23.759s] [ 90%] [32m[1mLinking CXX executable test_cpp_nl_NL.UTF-8[0m
+[23.838s] [100%] [32m[1mLinking CXX executable test_cpp_C[0m
+[24.224s] [100%] Built target test_cpp_nl_NL.UTF-8
+[24.297s] [100%] Built target test_cpp_C
+[24.363s] Invoked command in '/home/will/chess_robot_ws/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/will/chess_robot_ws/build/srdfdom -- -j4 -l4
+[24.364s] Invoking command in '/home/will/chess_robot_ws/build/srdfdom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/will/chess_robot_ws/build/srdfdom
+[24.367s] -- Install configuration: ""
+[24.367s] -- Execute custom install script
+[24.371s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/include/srdfdom/srdfdom/model.h
+[24.402s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/include/srdfdom/srdfdom/srdf_writer.h
+[24.436s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/include/srdfdom/srdfdom/visibility_control.h
+[24.464s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/lib/srdfdom/display_srdf
+[24.501s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/environment/pythonpath.sh
+[24.525s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/environment/pythonpath.dsv
+[24.570s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom-2.0.7-py3.10.egg-info/PKG-INFO
+[24.633s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom-2.0.7-py3.10.egg-info/SOURCES.txt
+[24.634s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom-2.0.7-py3.10.egg-info/dependency_links.txt
+[24.659s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom-2.0.7-py3.10.egg-info/top_level.txt
+[24.703s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom/__init__.py
+[24.737s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom/srdf.py
+[24.776s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/environment/library_path.sh
+[24.812s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/environment/library_path.dsv
+[24.850s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/ament_index/resource_index/package_run_dependencies/srdfdom
+[24.891s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/ament_index/resource_index/parent_prefix_path/srdfdom
+[24.925s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/environment/ament_prefix_path.sh
+[24.946s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/environment/ament_prefix_path.dsv
+[24.999s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/environment/path.sh
+[25.024s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/environment/path.dsv
+[25.079s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/local_setup.bash
+[25.117s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/local_setup.sh
+[25.165s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/local_setup.zsh
+[25.215s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/local_setup.dsv
+[25.255s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/package.dsv
+[25.292s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/ament_index/resource_index/packages/srdfdom
+[25.330s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/cmake/ament_cmake_export_targets-extras.cmake
+[25.372s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/cmake/ament_cmake_export_dependencies-extras.cmake
+[25.416s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/cmake/srdfdomConfig.cmake
+[25.435s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/cmake/srdfdomConfig-version.cmake
+[25.474s] -- Symlinking: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/package.xml
+[25.510s] -- Installing: /home/will/chess_robot_ws/install/srdfdom/lib/libsrdfdom.so.2.0.7
+[25.541s] -- Set runtime path of "/home/will/chess_robot_ws/install/srdfdom/lib/libsrdfdom.so.2.0.7" to ""
+[25.541s] -- Installing: /home/will/chess_robot_ws/install/srdfdom/lib/libsrdfdom.so
+[25.637s] Listing '/home/will/chess_robot_ws/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom'...
+[25.637s] Compiling '/home/will/chess_robot_ws/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom/__init__.py'...
+[25.637s] Compiling '/home/will/chess_robot_ws/install/srdfdom/local/lib/python3.10/dist-packages/srdfdom/srdf.py'...
+[25.651s] -- Installing: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/cmake/srdfdomTargetsExport.cmake
+[25.652s] -- Installing: /home/will/chess_robot_ws/install/srdfdom/share/srdfdom/cmake/srdfdomTargetsExport-noconfig.cmake
+[25.670s] Invoked command in '/home/will/chess_robot_ws/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/will/chess_robot_ws/build/srdfdom

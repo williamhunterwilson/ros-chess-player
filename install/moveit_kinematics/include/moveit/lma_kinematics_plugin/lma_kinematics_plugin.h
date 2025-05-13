@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/src/moveit2/moveit_kinematics/lma_kinematics_plugin/include/moveit/lma_kinematics_plugin/lma_kinematics_plugin.h

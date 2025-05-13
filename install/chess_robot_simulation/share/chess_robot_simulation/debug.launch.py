@@ -1,1 +1,0 @@
-/home/ros/chess_robot_ws/build/chess_robot_simulation/launch/debug.launch.py

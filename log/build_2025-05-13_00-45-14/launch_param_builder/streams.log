@@ -1,0 +1,33 @@
+[1.903s] Invoking command in '/home/will/chess_robot_ws/build/launch_param_builder': PYTHONPATH=/home/will/chess_robot_ws/build/launch_param_builder/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/will/chess_robot_ws/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/will/chess_robot_ws/build/launch_param_builder/build --no-deps symlink_data
+[3.137s] running develop
+[3.901s] running egg_info
+[3.903s] creating launch_param_builder.egg-info
+[3.903s] writing launch_param_builder.egg-info/PKG-INFO
+[3.903s] writing dependency_links to launch_param_builder.egg-info/dependency_links.txt
+[3.903s] writing entry points to launch_param_builder.egg-info/entry_points.txt
+[3.904s] writing requirements to launch_param_builder.egg-info/requires.txt
+[3.904s] writing top-level names to launch_param_builder.egg-info/top_level.txt
+[3.904s] writing manifest file 'launch_param_builder.egg-info/SOURCES.txt'
+[3.904s] reading manifest file 'launch_param_builder.egg-info/SOURCES.txt'
+[3.904s] writing manifest file 'launch_param_builder.egg-info/SOURCES.txt'
+[3.921s] running build_ext
+[3.921s] Creating /home/will/chess_robot_ws/install/launch_param_builder/lib/python3.10/site-packages/launch-param-builder.egg-link (link to .)
+[3.924s] 
+[3.937s] Installed /home/will/chess_robot_ws/build/launch_param_builder
+[3.938s] running symlink_data
+[3.939s] creating /home/will/chess_robot_ws/install/launch_param_builder/share/ament_index
+[3.943s] creating /home/will/chess_robot_ws/install/launch_param_builder/share/ament_index/resource_index
+[3.952s] creating /home/will/chess_robot_ws/install/launch_param_builder/share/ament_index/resource_index/packages
+[3.952s] symbolically linking /home/will/chess_robot_ws/build/launch_param_builder/resource/launch_param_builder -> /home/will/chess_robot_ws/install/launch_param_builder/share/ament_index/resource_index/packages
+[3.952s] creating /home/will/chess_robot_ws/install/launch_param_builder/share/launch_param_builder/launch
+[3.952s] symbolically linking /home/will/chess_robot_ws/build/launch_param_builder/example/launch_param_builder_example.launch.py -> /home/will/chess_robot_ws/install/launch_param_builder/share/launch_param_builder/launch
+[3.952s] creating /home/will/chess_robot_ws/install/launch_param_builder/share/launch_param_builder/config
+[3.952s] symbolically linking /home/will/chess_robot_ws/build/launch_param_builder/test/data/parameter.xacro -> /home/will/chess_robot_ws/install/launch_param_builder/share/launch_param_builder/config
+[3.953s] symbolically linking /home/will/chess_robot_ws/build/launch_param_builder/test/data/parameter_file -> /home/will/chess_robot_ws/install/launch_param_builder/share/launch_param_builder/config
+[3.953s] symbolically linking /home/will/chess_robot_ws/build/launch_param_builder/test/data/parameters.yaml -> /home/will/chess_robot_ws/install/launch_param_builder/share/launch_param_builder/config
+[3.953s] symbolically linking /home/will/chess_robot_ws/build/launch_param_builder/test/data/parameters_injection.yaml -> /home/will/chess_robot_ws/install/launch_param_builder/share/launch_param_builder/config
+[3.996s] symbolically linking /home/will/chess_robot_ws/build/launch_param_builder/test/data/param_file_to_inject.yaml -> /home/will/chess_robot_ws/install/launch_param_builder/share/launch_param_builder/config
+[3.998s] symbolically linking /home/will/chess_robot_ws/build/launch_param_builder/package.xml -> /home/will/chess_robot_ws/install/launch_param_builder/share/launch_param_builder
+[3.999s] creating /home/will/chess_robot_ws/install/launch_param_builder/lib/launch_param_builder
+[3.999s] symbolically linking /home/will/chess_robot_ws/build/launch_param_builder/example/example_node.py -> /home/will/chess_robot_ws/install/launch_param_builder/lib/launch_param_builder
+[4.497s] Invoked command in '/home/will/chess_robot_ws/build/launch_param_builder' returned '0': PYTHONPATH=/home/will/chess_robot_ws/build/launch_param_builder/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/will/chess_robot_ws/install/launch_param_builder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/will/chess_robot_ws/build/launch_param_builder/build --no-deps symlink_data

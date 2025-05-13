@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/build/chomp_motion_planner/ament_cmake_environment_hooks/local_setup.sh

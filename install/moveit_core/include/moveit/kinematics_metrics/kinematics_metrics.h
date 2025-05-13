@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/src/moveit2/moveit_core/kinematics_metrics/include/moveit/kinematics_metrics/kinematics_metrics.h

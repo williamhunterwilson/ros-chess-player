@@ -1,0 +1,4 @@
+/home/will/chess_robot_ws/install/moveit_ros_robot_interaction/lib/libmoveit_robot_interaction.so.2.5.9
+/home/will/chess_robot_ws/install/moveit_ros_robot_interaction/lib/libmoveit_robot_interaction.so
+/home/will/chess_robot_ws/install/moveit_ros_robot_interaction/share/moveit_ros_robot_interaction/cmake/export_moveit_ros_robot_interactionExport.cmake
+/home/will/chess_robot_ws/install/moveit_ros_robot_interaction/share/moveit_ros_robot_interaction/cmake/export_moveit_ros_robot_interactionExport-release.cmake

@@ -1,1 +1,1 @@
-/home/ros/chess_robot_ws/src/chess_robot_simulation/launch/chess_robot.launch.py
+/home/will/chess_robot_ws/src/chess_robot_simulation/launch/chess_robot.launch.py

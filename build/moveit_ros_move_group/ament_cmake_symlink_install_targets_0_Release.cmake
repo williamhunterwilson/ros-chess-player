@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/will/chess_robot_ws/build/moveit_ros_move_group/move_group" "/home/will/chess_robot_ws/build/moveit_ros_move_group/list_move_group_capabilities" "TARGETS" "move_group" "list_move_group_capabilities" "RUNTIME_DESTINATION" "lib/moveit_ros_move_group")

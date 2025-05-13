@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/src/moveit2/moveit_setup_assistant/moveit_setup_framework/include/moveit_setup_framework/data/srdf_config.hpp

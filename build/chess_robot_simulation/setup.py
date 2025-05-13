@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/src/chess_robot_simulation/setup.py

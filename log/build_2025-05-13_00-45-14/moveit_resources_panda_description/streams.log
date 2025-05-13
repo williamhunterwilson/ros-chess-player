@@ -1,0 +1,62 @@
+[0.088s] Invoking command in '/home/will/chess_robot_ws/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/will/chess_robot_ws/src/moveit_resources/panda_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/will/chess_robot_ws/install/moveit_resources_panda_description
+[0.612s] -- The C compiler identification is GNU 11.4.0
+[0.871s] -- The CXX compiler identification is GNU 11.4.0
+[0.958s] -- Detecting C compiler ABI info
+[1.513s] -- Detecting C compiler ABI info - done
+[1.553s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.553s] -- Detecting C compile features
+[1.554s] -- Detecting C compile features - done
+[1.570s] -- Detecting CXX compiler ABI info
+[2.030s] -- Detecting CXX compiler ABI info - done
+[2.042s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.042s] -- Detecting CXX compile features
+[2.042s] -- Detecting CXX compile features - done
+[2.042s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.821s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.170s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.674s] -- Configuring done
+[3.680s] -- Generating done
+[3.691s] -- Build files have been written to: /home/will/chess_robot_ws/build/moveit_resources_panda_description
+[3.912s] Invoked command in '/home/will/chess_robot_ws/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/will/chess_robot_ws/src/moveit_resources/panda_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/will/chess_robot_ws/install/moveit_resources_panda_description
+[3.913s] Invoking command in '/home/will/chess_robot_ws/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/will/chess_robot_ws/build/moveit_resources_panda_description -- -j4 -l4
+[4.195s] Invoked command in '/home/will/chess_robot_ws/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/will/chess_robot_ws/build/moveit_resources_panda_description -- -j4 -l4
+[4.196s] Invoking command in '/home/will/chess_robot_ws/build/moveit_resources_panda_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/will/chess_robot_ws/build/moveit_resources_panda_description
+[4.246s] -- Install configuration: ""
+[4.251s] -- Execute custom install script
+[4.251s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/ament_index/resource_index/package_run_dependencies/moveit_resources_panda_description
+[4.337s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/ament_index/resource_index/parent_prefix_path/moveit_resources_panda_description
+[4.367s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/ament_prefix_path.sh
+[4.393s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/ament_prefix_path.dsv
+[4.418s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/path.sh
+[4.440s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/environment/path.dsv
+[4.539s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.bash
+[4.665s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.sh
+[4.705s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.zsh
+[4.739s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/local_setup.dsv
+[4.775s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/package.dsv
+[4.809s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/ament_index/resource_index/packages/moveit_resources_panda_description
+[4.855s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig.cmake
+[4.888s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig-version.cmake
+[4.932s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/package.xml
+[4.989s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/finger.stl
+[5.025s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/hand.stl
+[5.080s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link0.stl
+[5.133s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link1.stl
+[5.149s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link2.stl
+[5.208s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link3.stl
+[5.265s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link4.stl
+[5.343s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link5.stl
+[5.391s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link6.stl
+[5.434s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/collision/link7.stl
+[5.486s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/finger.dae
+[5.530s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/hand.dae
+[5.645s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link0.dae
+[5.715s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link1.dae
+[5.803s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link2.dae
+[5.844s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link3.dae
+[5.926s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link4.dae
+[6.099s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link5.dae
+[6.248s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link6.dae
+[6.511s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/meshes/visual/link7.dae
+[6.741s] -- Symlinking: /home/will/chess_robot_ws/install/moveit_resources_panda_description/share/moveit_resources_panda_description/urdf/panda.urdf
+[7.279s] Invoked command in '/home/will/chess_robot_ws/build/moveit_resources_panda_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/will/chess_robot_ws/install/chess_robot_simulation:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/will/chess_robot_ws/build/moveit_resources_panda_description

@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/src/moveit_task_constructor/msgs/msg/Solution.msg

@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/build/moveit_ros_robot_interaction/ament_cmake_core/moveit_ros_robot_interactionConfig.cmake

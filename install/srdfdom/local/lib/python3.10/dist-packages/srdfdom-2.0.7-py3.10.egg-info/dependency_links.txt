@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/build/srdfdom/ament_cmake_python/srdfdom/srdfdom.egg-info/dependency_links.txt

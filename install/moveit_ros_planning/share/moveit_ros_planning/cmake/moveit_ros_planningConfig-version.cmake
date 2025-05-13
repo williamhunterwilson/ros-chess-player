@@ -1,0 +1,1 @@
+/home/will/chess_robot_ws/build/moveit_ros_planning/ament_cmake_core/moveit_ros_planningConfig-version.cmake

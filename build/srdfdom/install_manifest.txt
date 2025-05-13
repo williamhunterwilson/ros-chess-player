@@ -1,0 +1,4 @@
+/home/will/chess_robot_ws/install/srdfdom/lib/libsrdfdom.so.2.0.7
+/home/will/chess_robot_ws/install/srdfdom/lib/libsrdfdom.so
+/home/will/chess_robot_ws/install/srdfdom/share/srdfdom/cmake/srdfdomTargetsExport.cmake
+/home/will/chess_robot_ws/install/srdfdom/share/srdfdom/cmake/srdfdomTargetsExport-noconfig.cmake
