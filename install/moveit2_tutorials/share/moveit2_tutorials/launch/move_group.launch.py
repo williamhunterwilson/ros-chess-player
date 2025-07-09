@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2_tutorials/doc/examples/move_group_interface/launch/move_group.launch.py

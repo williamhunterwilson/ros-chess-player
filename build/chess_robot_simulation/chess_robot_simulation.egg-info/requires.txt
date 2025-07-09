@@ -1,8 +1,11 @@
+example_interfaces
 geometry_msgs
 moveit_py
 numpy
 python-chess
 rclpy
+sensor_msgs
 setuptools
 std_msgs
+std_srvs
 visualization_msgs

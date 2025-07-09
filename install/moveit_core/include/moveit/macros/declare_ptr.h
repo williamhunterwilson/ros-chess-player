@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_core/macros/include/moveit/macros/declare_ptr.h

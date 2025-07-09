@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_ros/robot_interaction/include/moveit/robot_interaction/kinematic_options.h

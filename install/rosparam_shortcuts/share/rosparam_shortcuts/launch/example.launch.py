@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/rosparam_shortcuts/launch/example.launch.py

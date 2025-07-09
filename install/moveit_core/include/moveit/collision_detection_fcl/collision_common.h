@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_core/collision_detection_fcl/include/moveit/collision_detection_fcl/collision_common.h

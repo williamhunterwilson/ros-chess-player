@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit_resources/panda_moveit_config/launch/moveit_rviz.launch.py

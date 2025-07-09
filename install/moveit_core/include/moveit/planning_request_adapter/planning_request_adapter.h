@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_core/planning_request_adapter/include/moveit/planning_request_adapter/planning_request_adapter.h

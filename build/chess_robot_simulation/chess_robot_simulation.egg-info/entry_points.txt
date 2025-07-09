@@ -1,3 +1,14 @@
 [console_scripts]
+chess_move_client = chess_robot_simulation.chess_move_client:main
 chess_robot_node = chess_robot_simulation.chess_robot_node:main
+chess_visualization = chess_robot_simulation.chess_visualization:main
+debug_joint_publisher = chess_robot_simulation.debug_joint_publisher:main
+gripper_control = chess_robot_simulation.gripper_control:main
+joint_state_publisher = chess_robot_simulation.joint_state_publisher:main
+piece_attachment_manager = chess_robot_simulation.piece_attachment_manager:main
+robot_description_publisher = chess_robot_simulation.robot_description_publisher:main
+simple_chess_arm = chess_robot_simulation.simple_chess_arm:main
+simple_chess_client = chess_robot_simulation.simple_chess_client:main
+test_arm_movement = chess_robot_simulation.test_arm_movement:main
+test_robot_movement = chess_robot_simulation.test_robot_movement:main
 

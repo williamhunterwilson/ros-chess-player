@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/build/moveit_resources_fanuc_moveit_config/ament_cmake_environment_hooks/local_setup.sh

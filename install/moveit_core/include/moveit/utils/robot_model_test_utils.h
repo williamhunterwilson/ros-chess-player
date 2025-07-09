@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_core/utils/include/moveit/utils/robot_model_test_utils.h

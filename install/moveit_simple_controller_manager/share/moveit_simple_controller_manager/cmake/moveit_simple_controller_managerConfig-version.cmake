@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/build/moveit_simple_controller_manager/ament_cmake_core/moveit_simple_controller_managerConfig-version.cmake

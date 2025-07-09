@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit_visual_tools/include/moveit_visual_tools/imarker_end_effector.h

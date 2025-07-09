@@ -1,0 +1,158 @@
+[0.000000] (-) TimerEvent: {}
+[0.003065] (-) JobUnselected: {'identifier': 'chomp_motion_planner'}
+[0.003272] (-) JobUnselected: {'identifier': 'launch_param_builder'}
+[0.004011] (-) JobUnselected: {'identifier': 'moveit'}
+[0.004211] (-) JobUnselected: {'identifier': 'moveit2_tutorials'}
+[0.004381] (-) JobUnselected: {'identifier': 'moveit_chomp_optimizer_adapter'}
+[0.004544] (-) JobUnselected: {'identifier': 'moveit_common'}
+[0.007465] (-) JobUnselected: {'identifier': 'moveit_configs_utils'}
+[0.007524] (-) JobUnselected: {'identifier': 'moveit_core'}
+[0.007553] (-) JobUnselected: {'identifier': 'moveit_hybrid_planning'}
+[0.007578] (-) JobUnselected: {'identifier': 'moveit_kinematics'}
+[0.007601] (-) JobUnselected: {'identifier': 'moveit_planners'}
+[0.007624] (-) JobUnselected: {'identifier': 'moveit_planners_chomp'}
+[0.007647] (-) JobUnselected: {'identifier': 'moveit_planners_ompl'}
+[0.007670] (-) JobUnselected: {'identifier': 'moveit_plugins'}
+[0.007692] (-) JobUnselected: {'identifier': 'moveit_resources'}
+[0.007714] (-) JobUnselected: {'identifier': 'moveit_resources_fanuc_description'}
+[0.007788] (-) JobUnselected: {'identifier': 'moveit_resources_fanuc_moveit_config'}
+[0.007836] (-) JobUnselected: {'identifier': 'moveit_resources_panda_description'}
+[0.007865] (-) JobUnselected: {'identifier': 'moveit_resources_panda_moveit_config'}
+[0.007892] (-) JobUnselected: {'identifier': 'moveit_resources_pr2_description'}
+[0.007916] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_ikfast_manipulator_plugin'}
+[0.007940] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_moveit_config'}
+[0.007982] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_pg70_support'}
+[0.008515] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_support'}
+[0.008731] (-) JobUnselected: {'identifier': 'moveit_ros'}
+[0.009249] (-) JobUnselected: {'identifier': 'moveit_ros_benchmarks'}
+[0.010018] (-) JobUnselected: {'identifier': 'moveit_ros_control_interface'}
+[0.010072] (-) JobUnselected: {'identifier': 'moveit_ros_move_group'}
+[0.010101] (-) JobUnselected: {'identifier': 'moveit_ros_occupancy_map_monitor'}
+[0.010127] (-) JobUnselected: {'identifier': 'moveit_ros_perception'}
+[0.011832] (-) JobUnselected: {'identifier': 'moveit_ros_planning'}
+[0.012128] (-) JobUnselected: {'identifier': 'moveit_ros_planning_interface'}
+[0.012311] (-) JobUnselected: {'identifier': 'moveit_ros_robot_interaction'}
+[0.012471] (-) JobUnselected: {'identifier': 'moveit_ros_visualization'}
+[0.012633] (-) JobUnselected: {'identifier': 'moveit_ros_warehouse'}
+[0.012781] (-) JobUnselected: {'identifier': 'moveit_runtime'}
+[0.013723] (-) JobUnselected: {'identifier': 'moveit_servo'}
+[0.013783] (-) JobUnselected: {'identifier': 'moveit_setup_app_plugins'}
+[0.013813] (-) JobUnselected: {'identifier': 'moveit_setup_assistant'}
+[0.013838] (-) JobUnselected: {'identifier': 'moveit_setup_controllers'}
+[0.013861] (-) JobUnselected: {'identifier': 'moveit_setup_core_plugins'}
+[0.013884] (-) JobUnselected: {'identifier': 'moveit_setup_framework'}
+[0.013906] (-) JobUnselected: {'identifier': 'moveit_setup_srdf_plugins'}
+[0.013929] (-) JobUnselected: {'identifier': 'moveit_simple_controller_manager'}
+[0.013952] (-) JobUnselected: {'identifier': 'moveit_task_constructor_capabilities'}
+[0.013974] (-) JobUnselected: {'identifier': 'moveit_task_constructor_core'}
+[0.013996] (-) JobUnselected: {'identifier': 'moveit_task_constructor_demo'}
+[0.014017] (-) JobUnselected: {'identifier': 'moveit_task_constructor_msgs'}
+[0.014039] (-) JobUnselected: {'identifier': 'moveit_task_constructor_visualization'}
+[0.014060] (-) JobUnselected: {'identifier': 'moveit_visual_tools'}
+[0.014082] (-) JobUnselected: {'identifier': 'pilz_industrial_motion_planner'}
+[0.014104] (-) JobUnselected: {'identifier': 'pilz_industrial_motion_planner_testutils'}
+[0.014126] (-) JobUnselected: {'identifier': 'rosparam_shortcuts'}
+[0.014147] (-) JobUnselected: {'identifier': 'rviz_marker_tools'}
+[0.014168] (-) JobUnselected: {'identifier': 'srdfdom'}
+[0.014201] (chess_robot_simulation) JobQueued: {'identifier': 'chess_robot_simulation', 'dependencies': OrderedDict()}
+[0.014339] (chess_robot_simulation) JobStarted: {'identifier': 'chess_robot_simulation'}
+[0.097030] (-) TimerEvent: {}
+[0.202730] (-) TimerEvent: {}
+[0.313483] (-) TimerEvent: {}
+[0.433729] (-) TimerEvent: {}
+[0.543637] (-) TimerEvent: {}
+[0.646554] (-) TimerEvent: {}
+[0.755769] (-) TimerEvent: {}
+[0.859462] (-) TimerEvent: {}
+[0.968867] (-) TimerEvent: {}
+[1.088106] (-) TimerEvent: {}
+[1.194449] (-) TimerEvent: {}
+[1.302277] (-) TimerEvent: {}
+[1.408040] (-) TimerEvent: {}
+[1.511735] (-) TimerEvent: {}
+[1.614769] (-) TimerEvent: {}
+[1.717492] (-) TimerEvent: {}
+[1.824237] (-) TimerEvent: {}
+[1.934508] (-) TimerEvent: {}
+[2.041529] (-) TimerEvent: {}
+[2.164083] (-) TimerEvent: {}
+[2.289202] (-) TimerEvent: {}
+[2.393952] (-) TimerEvent: {}
+[2.496468] (-) TimerEvent: {}
+[2.598899] (-) TimerEvent: {}
+[2.703878] (-) TimerEvent: {}
+[2.855880] (-) TimerEvent: {}
+[2.958423] (-) TimerEvent: {}
+[3.062526] (-) TimerEvent: {}
+[3.199190] (-) TimerEvent: {}
+[3.308709] (-) TimerEvent: {}
+[3.424375] (-) TimerEvent: {}
+[3.503109] (chess_robot_simulation) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/will/chess_robot_ws/build/chess_robot_simulation/build', '--no-deps', 'symlink_data'], 'cwd': '/home/will/chess_robot_ws/build/chess_robot_simulation', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'will', 'LC_TIME': 'nl_NL.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/will/chess_robot_ws/install/pilz_industrial_motion_planner_testutils/lib:/home/will/chess_robot_ws/install/moveit_ros_control_interface/lib:/home/will/chess_robot_ws/install/moveit_simple_controller_manager/lib:/home/will/chess_robot_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/will/chess_robot_ws/install/moveit_resources_prbt_ikfast_manipulator_plugin/lib:/home/will/chess_robot_ws/install/moveit_planners_chomp/lib:/home/will/chess_robot_ws/install/moveit_chomp_optimizer_adapter/lib:/home/will/chess_robot_ws/install/chomp_motion_planner/lib:/home/will/chess_robot_ws/install/moveit_core/lib:/home/will/chess_robot_ws/install/srdfdom/lib:/home/will/chess_robot_ws/install/rviz_marker_tools/lib:/home/will/chess_robot_ws/install/rosparam_shortcuts/lib:/home/will/chess_robot_ws/install/moveit_task_constructor_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/will', 'OLDPWD': '/home/will/chess_robot_ws/src', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'nl_NL.UTF-8', 'SYSTEMD_EXEC_PID': '1351', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/will/chess_robot_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'will', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'will', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/will/chess_robot_ws/install/moveit_core/bin:/opt/ros/humble/bin:/home/will/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/will-VM:@/tmp/.ICE-unix/1324,unix/will-VM:/tmp/.ICE-unix/1324', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'nl_NL.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/9f3b60bb_dd80_4f37_98b3_35faaa8dabc6', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'nl_NL.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.18TA92', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.128', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/will/chess_robot_ws/install/pilz_industrial_motion_planner_testutils:/home/will/chess_robot_ws/install/moveit_ros_control_interface:/home/will/chess_robot_ws/install/moveit_plugins:/home/will/chess_robot_ws/install/moveit_simple_controller_manager:/home/will/chess_robot_ws/install/moveit_ros_occupancy_map_monitor:/home/will/chess_robot_ws/install/moveit_resources_prbt_ikfast_manipulator_plugin:/home/will/chess_robot_ws/install/moveit_planners_chomp:/home/will/chess_robot_ws/install/moveit_chomp_optimizer_adapter:/home/will/chess_robot_ws/install/chomp_motion_planner:/home/will/chess_robot_ws/install/moveit_core:/home/will/chess_robot_ws/install/moveit_configs_utils:/home/will/chess_robot_ws/install/srdfdom:/home/will/chess_robot_ws/install/rviz_marker_tools:/home/will/chess_robot_ws/install/rosparam_shortcuts:/home/will/chess_robot_ws/install/moveit_task_constructor_msgs:/home/will/chess_robot_ws/install/moveit_resources_prbt_support:/home/will/chess_robot_ws/install/moveit_resources:/home/will/chess_robot_ws/install/moveit_resources_pr2_description:/home/will/chess_robot_ws/install/moveit_resources_panda_moveit_config:/home/will/chess_robot_ws/install/moveit_resources_panda_description:/home/will/chess_robot_ws/install/moveit_resources_fanuc_moveit_config:/home/will/chess_robot_ws/install/moveit_resources_fanuc_description:/home/will/chess_robot_ws/install/moveit_common:/home/will/chess_robot_ws/install/launch_param_builder:/home/will/chess_robot_ws/install/chess_robot_simulation:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'nl_NL.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'nl_NL.UTF-8', 'LC_IDENTIFICATION': 'nl_NL.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/will/chess_robot_ws/build/chess_robot_simulation', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/will/chess_robot_ws/build/chess_robot_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/will/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages:/home/will/chess_robot_ws/build/moveit_configs_utils:/home/will/chess_robot_ws/install/moveit_configs_utils/lib/python3.10/site-packages:/home/will/chess_robot_ws/install/srdfdom/local/lib/python3.10/dist-packages:/home/will/chess_robot_ws/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages:/home/will/chess_robot_ws/build/launch_param_builder:/home/will/chess_robot_ws/install/launch_param_builder/lib/python3.10/site-packages:/home/will/chess_robot_ws/build/chess_robot_simulation:/home/will/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'nl_NL.UTF-8', 'LC_PAPER': 'nl_NL.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/will/chess_robot_ws/install/pilz_industrial_motion_planner_testutils:/home/will/chess_robot_ws/install/moveit_ros_control_interface:/home/will/chess_robot_ws/install/moveit_plugins:/home/will/chess_robot_ws/install/moveit_simple_controller_manager:/home/will/chess_robot_ws/install/moveit_ros_occupancy_map_monitor:/home/will/chess_robot_ws/install/moveit_resources_prbt_ikfast_manipulator_plugin:/home/will/chess_robot_ws/install/moveit_planners_chomp:/home/will/chess_robot_ws/install/moveit_chomp_optimizer_adapter:/home/will/chess_robot_ws/install/chomp_motion_planner:/home/will/chess_robot_ws/install/moveit_core:/home/will/chess_robot_ws/install/srdfdom:/home/will/chess_robot_ws/install/rviz_marker_tools:/home/will/chess_robot_ws/install/rosparam_shortcuts:/home/will/chess_robot_ws/install/moveit_task_constructor_msgs:/home/will/chess_robot_ws/install/moveit_resources_prbt_support:/home/will/chess_robot_ws/install/moveit_resources:/home/will/chess_robot_ws/install/moveit_resources_pr2_description:/home/will/chess_robot_ws/install/moveit_resources_panda_moveit_config:/home/will/chess_robot_ws/install/moveit_resources_panda_description:/home/will/chess_robot_ws/install/moveit_resources_fanuc_moveit_config:/home/will/chess_robot_ws/install/moveit_resources_fanuc_description:/home/will/chess_robot_ws/install/moveit_common'}, 'shell': False}
+[3.551589] (-) TimerEvent: {}
+[3.679363] (-) TimerEvent: {}
+[3.781213] (-) TimerEvent: {}
+[3.890688] (-) TimerEvent: {}
+[4.000425] (-) TimerEvent: {}
+[4.106498] (-) TimerEvent: {}
+[4.207310] (-) TimerEvent: {}
+[4.309171] (-) TimerEvent: {}
+[4.414560] (-) TimerEvent: {}
+[4.522520] (-) TimerEvent: {}
+[4.628691] (-) TimerEvent: {}
+[4.750746] (-) TimerEvent: {}
+[4.853850] (-) TimerEvent: {}
+[4.926510] (chess_robot_simulation) StdoutLine: {'line': b'running develop\n'}
+[4.958176] (-) TimerEvent: {}
+[5.062446] (-) TimerEvent: {}
+[5.182948] (-) TimerEvent: {}
+[5.301666] (-) TimerEvent: {}
+[5.409562] (-) TimerEvent: {}
+[5.538884] (-) TimerEvent: {}
+[5.587761] (chess_robot_simulation) StdoutLine: {'line': b'running egg_info\n'}
+[5.606946] (chess_robot_simulation) StdoutLine: {'line': b'creating chess_robot_simulation.egg-info\n'}
+[5.608102] (chess_robot_simulation) StdoutLine: {'line': b'writing chess_robot_simulation.egg-info/PKG-INFO\n'}
+[5.614105] (chess_robot_simulation) StdoutLine: {'line': b'writing dependency_links to chess_robot_simulation.egg-info/dependency_links.txt\n'}
+[5.618810] (chess_robot_simulation) StdoutLine: {'line': b'writing entry points to chess_robot_simulation.egg-info/entry_points.txt\n'}
+[5.621401] (chess_robot_simulation) StdoutLine: {'line': b'writing requirements to chess_robot_simulation.egg-info/requires.txt\n'}
+[5.623116] (chess_robot_simulation) StdoutLine: {'line': b'writing top-level names to chess_robot_simulation.egg-info/top_level.txt\n'}
+[5.625255] (chess_robot_simulation) StdoutLine: {'line': b"writing manifest file 'chess_robot_simulation.egg-info/SOURCES.txt'\n"}
+[5.632210] (chess_robot_simulation) StdoutLine: {'line': b"reading manifest file 'chess_robot_simulation.egg-info/SOURCES.txt'\n"}
+[5.634725] (chess_robot_simulation) StdoutLine: {'line': b"writing manifest file 'chess_robot_simulation.egg-info/SOURCES.txt'\n"}
+[5.639577] (chess_robot_simulation) StdoutLine: {'line': b'running build_ext\n'}
+[5.650801] (-) TimerEvent: {}
+[5.651611] (chess_robot_simulation) StdoutLine: {'line': b'Creating /home/will/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess-robot-simulation.egg-link (link to .)\n'}
+[5.653110] (chess_robot_simulation) StdoutLine: {'line': b'Installing chess_move_client script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.656518] (chess_robot_simulation) StdoutLine: {'line': b'Installing chess_robot_node script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.659094] (chess_robot_simulation) StdoutLine: {'line': b'Installing chess_visualization script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.661178] (chess_robot_simulation) StdoutLine: {'line': b'Installing debug_joint_publisher script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.663794] (chess_robot_simulation) StdoutLine: {'line': b'Installing gripper_control script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.665902] (chess_robot_simulation) StdoutLine: {'line': b'Installing joint_state_publisher script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.668314] (chess_robot_simulation) StdoutLine: {'line': b'Installing piece_attachment_manager script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.670612] (chess_robot_simulation) StdoutLine: {'line': b'Installing robot_description_publisher script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.673939] (chess_robot_simulation) StdoutLine: {'line': b'Installing simple_chess_arm script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.677277] (chess_robot_simulation) StdoutLine: {'line': b'Installing simple_chess_client script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.681645] (chess_robot_simulation) StdoutLine: {'line': b'Installing test_arm_movement script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.691593] (chess_robot_simulation) StdoutLine: {'line': b'Installing test_robot_movement script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation\n'}
+[5.691860] (chess_robot_simulation) StdoutLine: {'line': b'\n'}
+[5.692110] (chess_robot_simulation) StdoutLine: {'line': b'Installed /home/will/chess_robot_ws/build/chess_robot_simulation\n'}
+[5.692321] (chess_robot_simulation) StdoutLine: {'line': b'running symlink_data\n'}
+[5.696677] (chess_robot_simulation) StdoutLine: {'line': b'creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/ament_index\n'}
+[5.709519] (chess_robot_simulation) StdoutLine: {'line': b'creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/ament_index/resource_index\n'}
+[5.711772] (chess_robot_simulation) StdoutLine: {'line': b'creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/ament_index/resource_index/packages\n'}
+[5.712084] (chess_robot_simulation) StdoutLine: {'line': b'symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/resource/chess_robot_simulation -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/ament_index/resource_index/packages\n'}
+[5.715745] (chess_robot_simulation) StdoutLine: {'line': b'symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/package.xml -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation\n'}
+[5.715891] (chess_robot_simulation) StdoutLine: {'line': b'creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/launch\n'}
+[5.715999] (chess_robot_simulation) StdoutLine: {'line': b'symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/launch/chess_robot.launch.py -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/launch\n'}
+[5.718790] (chess_robot_simulation) StdoutLine: {'line': b'symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/launch/robot_display.launch.py -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/launch\n'}
+[5.719013] (chess_robot_simulation) StdoutLine: {'line': b'symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/launch/simple_chess_test.launch.py -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/launch\n'}
+[5.719177] (chess_robot_simulation) StdoutLine: {'line': b'creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/rviz\n'}
+[5.719729] (chess_robot_simulation) StdoutLine: {'line': b'symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/rviz/chess_robot.rviz -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/rviz\n'}
+[5.724085] (chess_robot_simulation) StdoutLine: {'line': b'creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/urdf\n'}
+[5.726709] (chess_robot_simulation) StdoutLine: {'line': b'symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/urdf/chess_robot.urdf -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/urdf\n'}
+[5.729629] (chess_robot_simulation) StdoutLine: {'line': b'creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/config\n'}
+[5.731363] (chess_robot_simulation) StdoutLine: {'line': b'symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/config/chess_robot_moveit.yaml -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/config\n'}
+[5.751131] (-) TimerEvent: {}
+[5.858326] (chess_robot_simulation) CommandEnded: {'returncode': 0}
+[5.862704] (-) TimerEvent: {}
+[5.901480] (chess_robot_simulation) JobEnded: {'identifier': 'chess_robot_simulation', 'rc': 0}
+[5.904396] (-) EventReactorShutdown: {}

@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/build/moveit_runtime/ament_cmake_environment_hooks/local_setup.zsh

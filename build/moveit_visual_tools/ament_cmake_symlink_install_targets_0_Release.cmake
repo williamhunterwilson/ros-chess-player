@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/will/chess_robot_ws/build/moveit_visual_tools/moveit_visual_tools_demo" "TARGETS" "moveit_visual_tools_demo" "RUNTIME_DESTINATION" "lib/moveit_visual_tools")

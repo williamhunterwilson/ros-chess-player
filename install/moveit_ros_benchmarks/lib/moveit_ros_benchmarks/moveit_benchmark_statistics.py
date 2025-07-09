@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_ros/benchmarks/scripts/moveit_benchmark_statistics.py

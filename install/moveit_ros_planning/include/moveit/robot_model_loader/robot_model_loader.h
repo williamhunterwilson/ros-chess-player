@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_ros/planning/robot_model_loader/include/moveit/robot_model_loader/robot_model_loader.h

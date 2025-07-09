@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_core/collision_detection_bullet/include/moveit/collision_detection_bullet/collision_env_bullet.h

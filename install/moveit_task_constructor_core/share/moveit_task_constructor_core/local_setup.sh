@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/build/moveit_task_constructor_core/ament_cmake_environment_hooks/local_setup.sh

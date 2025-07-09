@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_plugins/moveit_simple_controller_manager/ConfigExtras.cmake

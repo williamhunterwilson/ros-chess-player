@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_setup_assistant/moveit_setup_controllers/include/moveit_setup_controllers/control_xacro_config.hpp

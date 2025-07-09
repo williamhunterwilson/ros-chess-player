@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_ros/perception/point_containment_filter/include/moveit/point_containment_filter/shape_mask.h

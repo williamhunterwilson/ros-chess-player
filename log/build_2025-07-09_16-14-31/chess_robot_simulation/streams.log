@@ -1,0 +1,45 @@
+[3.537s] Invoking command in '/home/will/chess_robot_ws/build/chess_robot_simulation': PYTHONPATH=/home/will/chess_robot_ws/build/chess_robot_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/will/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/will/chess_robot_ws/build/chess_robot_simulation/build --no-deps symlink_data
+[4.942s] running develop
+[5.574s] running egg_info
+[5.593s] creating chess_robot_simulation.egg-info
+[5.594s] writing chess_robot_simulation.egg-info/PKG-INFO
+[5.600s] writing dependency_links to chess_robot_simulation.egg-info/dependency_links.txt
+[5.606s] writing entry points to chess_robot_simulation.egg-info/entry_points.txt
+[5.608s] writing requirements to chess_robot_simulation.egg-info/requires.txt
+[5.609s] writing top-level names to chess_robot_simulation.egg-info/top_level.txt
+[5.612s] writing manifest file 'chess_robot_simulation.egg-info/SOURCES.txt'
+[5.619s] reading manifest file 'chess_robot_simulation.egg-info/SOURCES.txt'
+[5.621s] writing manifest file 'chess_robot_simulation.egg-info/SOURCES.txt'
+[5.636s] running build_ext
+[5.638s] Creating /home/will/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages/chess-robot-simulation.egg-link (link to .)
+[5.640s] Installing chess_move_client script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.643s] Installing chess_robot_node script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.646s] Installing chess_visualization script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.648s] Installing debug_joint_publisher script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.650s] Installing gripper_control script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.652s] Installing joint_state_publisher script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.654s] Installing piece_attachment_manager script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.656s] Installing robot_description_publisher script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.662s] Installing simple_chess_arm script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.667s] Installing simple_chess_client script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.676s] Installing test_arm_movement script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.677s] Installing test_robot_movement script to /home/will/chess_robot_ws/install/chess_robot_simulation/lib/chess_robot_simulation
+[5.678s] 
+[5.678s] Installed /home/will/chess_robot_ws/build/chess_robot_simulation
+[5.678s] running symlink_data
+[5.682s] creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/ament_index
+[5.697s] creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/ament_index/resource_index
+[5.698s] creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/ament_index/resource_index/packages
+[5.701s] symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/resource/chess_robot_simulation -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/ament_index/resource_index/packages
+[5.701s] symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/package.xml -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation
+[5.702s] creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/launch
+[5.702s] symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/launch/chess_robot.launch.py -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/launch
+[5.705s] symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/launch/robot_display.launch.py -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/launch
+[5.705s] symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/launch/simple_chess_test.launch.py -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/launch
+[5.705s] creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/rviz
+[5.709s] symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/rviz/chess_robot.rviz -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/rviz
+[5.712s] creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/urdf
+[5.715s] symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/urdf/chess_robot.urdf -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/urdf
+[5.716s] creating /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/config
+[5.717s] symbolically linking /home/will/chess_robot_ws/build/chess_robot_simulation/config/chess_robot_moveit.yaml -> /home/will/chess_robot_ws/install/chess_robot_simulation/share/chess_robot_simulation/config
+[5.844s] Invoked command in '/home/will/chess_robot_ws/build/chess_robot_simulation' returned '0': PYTHONPATH=/home/will/chess_robot_ws/build/chess_robot_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/will/chess_robot_ws/install/chess_robot_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/will/chess_robot_ws/build/chess_robot_simulation/build --no-deps symlink_data

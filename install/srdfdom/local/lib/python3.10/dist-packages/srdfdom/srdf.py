@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/srdfdom/srdfdom/srdf.py

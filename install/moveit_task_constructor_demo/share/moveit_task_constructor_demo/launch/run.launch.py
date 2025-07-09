@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit_task_constructor/demo/launch/run.launch.py

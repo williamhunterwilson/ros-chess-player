@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/will/chess_robot_ws/build/moveit_ros_occupancy_map_monitor/moveit_ros_occupancy_map_server" "TARGETS" "moveit_ros_occupancy_map_server" "DESTINATION" "lib/moveit_ros_occupancy_map_monitor")

@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/src/moveit2/moveit_ros/moveit_servo/launch/servo_example.launch.py

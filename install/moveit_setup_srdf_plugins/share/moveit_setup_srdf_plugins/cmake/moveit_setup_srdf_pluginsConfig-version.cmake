@@ -1,1 +1,0 @@
-/home/will/chess_robot_ws/build/moveit_setup_srdf_plugins/ament_cmake_core/moveit_setup_srdf_pluginsConfig-version.cmake
